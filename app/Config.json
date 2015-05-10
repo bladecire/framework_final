@@ -1,0 +1,16 @@
+{
+	"driver":"mysql",
+    "dbname":"negocioonline",
+    "dbhost":"localhost",
+    "dbuser":"root",
+    "dbpass":"",
+	"app_data":{
+    	"css":"css/app.css",
+    	"js":"js/application.js",
+        "titol":"Eric",
+        "logo":"img/logo.jpg",
+        "apli":"KMan",
+        "theme":"pub/themes/k/",
+        "app_w":""
+    }
+}
