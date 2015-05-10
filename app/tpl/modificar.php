@@ -2,12 +2,16 @@
 <h2>Modificar Usuario</h2>
 <div>
     <form id="regform" name="formregister" method="post" action="<?= APP_W; ?>modificar/modificar">
-        NombreCompania<br>
-        <input type="text" name="NombreCompania"><br>
+
+<p>Introduce el dni y el email del usuario que quieres modificar</p>
         DNI<br>
         <input type="text" name="DNI"><br>
         Email<br>
-        <input type="text" name="Email"><br>            
+        <input type="text" name="Email"><br>   
+<hr>
+        NombreCompania<br>
+        <input type="text" name="NombreCompania"><br>
+         
         NombreContacto<br>
         <input type="text" name="NombreContacto"><br>
         CargoContacto<br>
